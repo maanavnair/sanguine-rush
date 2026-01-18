@@ -1,0 +1,36 @@
+# --- Unity Folders ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# --- VS Code & IDE Files ---
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# --- Asset Store & Plugins ---
+/[Aa]ssets/AssetStoreTools*
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
+# --- CRITICAL: NEVER IGNORE THESE ---
+!/[Aa]ssets/**/*.meta
